@@ -238,18 +238,13 @@ return [
 //        ],
         [
             'text' => 'Categories',
-            'url'  => 'admin/settings',
+            'url'  => 'admin/categories',
             'icon' => 'fas fa-fw fa-user',
         ],
         [
             'text'        => 'Posts',
-            'url'         => 'admin/pages',
+            'url'         => 'admin/posts',
             'icon'        => 'far fa-fw fa-file',
-        ],
-        [
-            'text' => 'Users',
-            'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-lock',
         ],
     ],
 

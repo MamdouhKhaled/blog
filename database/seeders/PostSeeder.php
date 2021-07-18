@@ -13,8 +13,7 @@ class PostSeeder extends Seeder
      */
     public function run()
     {
-        $tags = \App\Models\Tag::factory(3)->create();
-        \App\Models\Post::factory(10)->hasAttached($tags)->create();
+        \App\Models\Post::factory(10)->create();
 
     }
 }
