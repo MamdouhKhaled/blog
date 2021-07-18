@@ -13,3 +13,9 @@ http://127.0.0.1:8000/admin
 mamdouh.khaled@live.com
 password
 ```
+User
+```
+http://127.0.0.1:8000/admin
+user@user.com
+password
+```
